@@ -1,4 +1,5 @@
 L'INFORMATIQUE, NOTRE PASSION, TON AVENIR.
+------------------------------------------
 
 Sup de Vinci, école 100% informatique hors Parcoursup, propose des formations du BAC au BAC+5 reconnues par l’État (Bachelors et Mastères) en initial et en alternance.
 
@@ -7,3 +8,5 @@ Elle bénéficie d’une place de choix stratégique grâce à son implantation 
 Depuis plus de 26 ans, Sup de Vinci s’est forgé une solide réputation auprès des entreprises. 
 
 Son ingénierie pédagogique pointue et innovante forme les cadres IT d’aujourd’hui et de demain grâce à une approche globale combinant acquisition de compétences techniques, relationnelles managériales et collectives !
+
+Super l'école de fou, oui c'est vrai
